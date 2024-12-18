@@ -1,0 +1,8 @@
+[0m[0KREPOSITORY                  TAG           IMAGE ID       CREATED         SIZE[0K
+teresaramos14/lab6-docker   v1            9b4ac7f45acf   3 minutes ago   1.15GB[0K
+python                      3.11-slim     370c586a6ffc   2 weeks ago     194MB[0K
+ubuntu                      latest        80dd3c3b9c6c   4 weeks ago     117MB[0K
+hello-world                 latest        5b3cc85e16e3   19 months ago   24.4kB[0K
+docker/getting-started      latest        d79336f4812b   24 months ago   73.9MB[0K
+biocontainers/blast         v2.2.31_cv2   238717ec6983   6 years ago     2.99GB[0K
+[0K
