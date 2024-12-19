@@ -1,0 +1,15 @@
+
+#partimos de la imagen python 3.11
+FROM python:3.11-slim
+
+#se crea /app
+WORKDIR /app
+
+#copia en el repositorio
+COPY reduc-operation-alumno19.ipynb /app/
+
+#instalacion de paquetes necesarios para ejecutar el notebook
+RUN pip install jupyter numpy numba
+
+#ejecucion
+CMD ["ipython", "/app/reduc-operation-alumno19.ipynb", "100000"]
