@@ -1,1 +1,1 @@
-Repositorio para el aboratorio Docker de HPC-Bio
+Repositorio para el laboratorio Docker de HPC-Bio
